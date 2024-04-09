@@ -1,10 +1,8 @@
 # DigitalDesignandComputerArch
-My lab for DDCA@ETHz. 
+My lab answers for DDCA@ETHz. 
 
-Plan to finish before 2024/5/28. 
+It's an appropriate course for students in their sophmore or junior, with a basis of digital circuits, aiming to digital IC design.  
 
-It's a great course for students in their sophmore or junior, with a basis of digital circuits, aiming to digital IC design.  
-
-Download specified lab and see the readme.txt for design&testing ideas and some tricky issues for each lab. 
+Download specified labs and see the readme.txt for design&testing ideas and some tricky issues for each lab. 
 
 Ref: https://safari.ethz.ch/digitaltechnik/spring2022/doku.php?id=start
